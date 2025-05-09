@@ -1,1 +1,10 @@
-
+#include <iostrean>
+using namespace std;
+int main()
+{
+for(int i = 0;i < 10;i++)
+{
+cout << "con cac" << endl;
+}
+return 0;
+}
