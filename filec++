@@ -5,6 +5,8 @@ int main()
 for(int i = 0;i < 10;i++)
 {
 cout << "con cac" << endl;
+cout << " cac";
 }
 return 0;
 }
+
