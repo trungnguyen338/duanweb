@@ -1,12 +1,13 @@
-#include <iostrean>
+#include <iostream>
 using namespace std;
 int main()
 {
+int tong = 0;
 for(int i = 0;i < 10;i++)
 {
-cout << "con cac" << endl;
-cout << " cac";
+tong+=i;
 }
+cout << tong;
 return 0;
 }
 
